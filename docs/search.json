@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "From SAS to R: Five Essential Clinical Graphics Every SAS Programmer Should Know\nWu G, Yan J, Yan J. Paper 109-2026.\nA side-by-side guide mapping SAS ODS Graphics to R ggplot2, building waterfall, swimmer, Kaplan-Meier, forest, and spider plots in both languages.\nPDF\n\n\nOne Code, Two Modes: A Convention-Driven R Reporting System for Submission-Ready Clinical TLFs\nYan J, Wu G, Yan J. Paper 80-2026.\nOne R code path producing submission-ready RTF outputs in both batch production and interactive Shiny preview.\nPDF\n\n\nZero-Friction R for GxP: A Centralized Infrastructure Bridging SAS and R in Clinical Programming\nYan J, Wu G, Yan J. Paper 79-2026.\nA centralized R configuration that mirrors SAS autopath conventions, with a version-locked package library and batch/interactive parity.\nPDF"
+  },
+  {
+    "objectID": "publications.html#seasug-2026-conference-proceedings",
+    "href": "publications.html#seasug-2026-conference-proceedings",
+    "title": "Publications",
+    "section": "",
+    "text": "From SAS to R: Five Essential Clinical Graphics Every SAS Programmer Should Know\nWu G, Yan J, Yan J. Paper 109-2026.\nA side-by-side guide mapping SAS ODS Graphics to R ggplot2, building waterfall, swimmer, Kaplan-Meier, forest, and spider plots in both languages.\nPDF\n\n\nOne Code, Two Modes: A Convention-Driven R Reporting System for Submission-Ready Clinical TLFs\nYan J, Wu G, Yan J. Paper 80-2026.\nOne R code path producing submission-ready RTF outputs in both batch production and interactive Shiny preview.\nPDF\n\n\nZero-Friction R for GxP: A Centralized Infrastructure Bridging SAS and R in Clinical Programming\nYan J, Wu G, Yan J. Paper 79-2026.\nA centralized R configuration that mirrors SAS autopath conventions, with a version-locked package library and batch/interactive parity.\nPDF"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Senior Manager, Statistical Programming\nKardigan · Princeton, NJ · Jul 2025 – Present\n\nLead a study programming team delivering SDTM, ADaM, and TLFs for clinical studies\nBuilt BPS_INIT, the standard SAS initialization macro for the programming workspace: detects the program path, derives compound/study/snapshot, creates standard librefs, configures autocall libraries, applies system options, and logs setup status, while staying backward-compatible with existing programs\nTested and validated a centralized R environment and R reporting system running alongside SAS; co-authored two SEASUG 2026 papers on this work\n\n\n\nManager, Statistical Programming\nBristol Myers Squibb · Lawrence, NJ · Apr 2022 – Jul 2025\n\nLed programming deliverables for clinical studies, from SDTM/ADaM through TLFs for CSRs and regulatory submissions\nOversaw timelines, QC, and validation for internal and outsourced programming\nPrepared eCTD submission packages, including define.xml, reviewer’s guides, and Pinnacle 21 compliance checks\nMentored programmers and partnered with biostatistics, data management, and clinical teams\n\n\n\nSenior Specialist, Programming\nBristol Myers Squibb · Lawrence, NJ · May 2021 – Apr 2022\n\nProgrammed and validated SDTM, ADaM, and TLFs in the Statistical Computing Environment (SCE)\nSupported submission activities, including CDISC compliance checks and define.xml\n\n\n\nStatistical Programmer\nBrightech International · Somerset, NJ · Oct 2018 – May 2021\n\nCreated SDTM and ADaM datasets and TFLs (RTF, PDF) per specifications and mock shells\nAuthored SDTM/ADaM specifications and annotated CRFs following CDISC guidelines\nPrepared define.xml and SDRG/ADRG with Pinnacle 21 Enterprise for submissions\nPerformed QC of datasets and displays; supported 3+ concurrent studies and mentored junior programmers"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "George (Zuojun) Wu",
+    "section": "",
+    "text": "Statistical programming leader with 8+ years in clinical development (Kardigan, Bristol Myers Squibb). I lead a study programming team from SDTM/ADaM through submission-ready TLFs. I built our standard SAS initialization framework and co-developed and tested a centralized R infrastructure that runs alongside SAS in a GxP setting."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "George (Zuojun) Wu",
+    "section": "Skills",
+    "text": "Skills\n\nSAS R CDISC SDTM CDISC ADaM TLF Programming Define-XML Pinnacle 21 eCTD Submissions ggplot2 R Shiny Statistical Computing Environment Team Leadership"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "George (Zuojun) Wu",
+    "section": "Education",
+    "text": "Education\nM.A., Biostatistics · University at Buffalo, 2018\nM.S., Nutrition Sciences · University at Buffalo, 2015\nB.S., Nutrition Sciences · Shanghai Jiao Tong University, 2013"
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "George (Zuojun) Wu",
+    "section": "Certifications",
+    "text": "Certifications\nSAS Certified Clinical Trials Programmer for SAS 9 (2018)\nSAS Certified Advanced Programmer for SAS 9 (2017)\nSAS Certified Base Programmer for SAS 9 (2017)"
+  }
+]

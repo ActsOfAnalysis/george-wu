@@ -1,0 +1,39 @@
+---
+title: "George (Zuojun) Wu"
+subtitle: "Senior Manager, Statistical Programming · Kardigan"
+image: images/profile.JPG     # replace with images/profile.jpg (your photo)
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/georgewu-statprog/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=NpVmGIYAAAAJ&hl=en
+    - icon: envelope
+      text: Email
+      href: mailto:wuzuojun123@gmail.com
+---
+
+Statistical programming leader with 8+ years in clinical development (Kardigan, Bristol Myers Squibb). I lead a study programming team from SDTM/ADaM through submission-ready TLFs. I built our standard SAS initialization framework and co-developed and tested a centralized R infrastructure that runs alongside SAS in a GxP setting.
+
+## Skills
+
+::: {.skill-tags}
+[SAS]{} [R]{} [CDISC SDTM]{} [CDISC ADaM]{} [TLF Programming]{} [Define-XML]{} [Pinnacle 21]{} [eCTD Submissions]{} [ggplot2]{} [R Shiny]{} [Statistical Computing Environment]{} [Team Leadership]{}
+:::
+
+## Education
+
+**M.A., Biostatistics** · University at Buffalo, 2018  
+**M.S., Nutrition Sciences** · University at Buffalo, 2015  
+**B.S., Nutrition Sciences** · Shanghai Jiao Tong University, 2013
+
+## Certifications
+
+SAS Certified Clinical Trials Programmer for SAS 9 (2018)  
+SAS Certified Advanced Programmer for SAS 9 (2017)  
+SAS Certified Base Programmer for SAS 9 (2017)

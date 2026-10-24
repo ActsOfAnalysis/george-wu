@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves this folder
+
+website:
+  title: "George (Zuojun) Wu"
+  site-url: "https://actsofanalysis.github.io/george-wu"
+  description: "Statistical programming leader in clinical development: SAS, R, CDISC."
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: publications.qmd
+        text: Publications
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/georgewu-statprog/
+        aria-label: LinkedIn
+  page-footer:
+    center: "© 2026 George (Zuojun) Wu · Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    page-layout: article

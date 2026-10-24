@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+
+## SEASUG 2026 Conference Proceedings
+
+::: {.pub}
+[From SAS to R: Five Essential Clinical Graphics Every SAS Programmer Should Know]{.pub-title}  
+**Wu G**, Yan J, Yan J. Paper 109-2026.  
+[A side-by-side guide mapping SAS ODS Graphics to R ggplot2, building waterfall, swimmer, Kaplan-Meier, forest, and spider plots in both languages.]{.pub-meta}  
+[PDF](https://saslexicon.org/SESUG/2026/Wu_From_SAS_to_R_Five_Essential_Clinical_Graphics_Every_SAS_Programmer.pdf){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.pub}
+[One Code, Two Modes: A Convention-Driven R Reporting System for Submission-Ready Clinical TLFs]{.pub-title}  
+Yan J, **Wu G**, Yan J. Paper 80-2026.  
+[One R code path producing submission-ready RTF outputs in both batch production and interactive Shiny preview.]{.pub-meta}  
+[PDF](https://saslexicon.org/SESUG/2026/Yan_One_Code_Two_Modes_A_ConventionDriven_R_Reporting_System_for_SubmissionReady_Clinical_TLFs.pdf){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.pub}
+[Zero-Friction R for GxP: A Centralized Infrastructure Bridging SAS and R in Clinical Programming]{.pub-title}  
+Yan J, **Wu G**, Yan J. Paper 79-2026.  
+[A centralized R configuration that mirrors SAS autopath conventions, with a version-locked package library and batch/interactive parity.]{.pub-meta}  
+[PDF](https://saslexicon.org/SESUG/2026/Yan_ZeroFriction_R_for_GxP_A_Centralized_Infrastructure_Bridging_SAS_and_R_in_Clinical_Programming.pdf){.btn .btn-sm .btn-outline-primary}
+:::

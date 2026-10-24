@@ -1,0 +1,44 @@
+---
+title: "Experience"
+---
+
+::: {.role}
+[Senior Manager, Statistical Programming]{.role-title}
+
+[Kardigan · Princeton, NJ · Jul 2025 – Present]{.role-meta}
+
+- Lead a study programming team delivering SDTM, ADaM, and TLFs for clinical studies
+- Built **BPS_INIT**, the standard SAS initialization macro for the programming workspace: detects the program path, derives compound/study/snapshot, creates standard librefs, configures autocall libraries, applies system options, and logs setup status, while staying backward-compatible with existing programs
+- Tested and validated a centralized R environment and R reporting system running alongside SAS; co-authored two SEASUG 2026 papers on this work
+:::
+
+::: {.role}
+[Manager, Statistical Programming]{.role-title}
+
+[Bristol Myers Squibb · Lawrence, NJ · Apr 2022 – Jul 2025]{.role-meta}
+
+- Led programming deliverables for clinical studies, from SDTM/ADaM through TLFs for CSRs and regulatory submissions
+- Oversaw timelines, QC, and validation for internal and outsourced programming
+- Prepared eCTD submission packages, including define.xml, reviewer's guides, and Pinnacle 21 compliance checks
+- Mentored programmers and partnered with biostatistics, data management, and clinical teams
+:::
+
+::: {.role}
+[Senior Specialist, Programming]{.role-title}
+
+[Bristol Myers Squibb · Lawrence, NJ · May 2021 – Apr 2022]{.role-meta}
+
+- Programmed and validated SDTM, ADaM, and TLFs in the Statistical Computing Environment (SCE)
+- Supported submission activities, including CDISC compliance checks and define.xml
+:::
+
+::: {.role}
+[Statistical Programmer]{.role-title}
+
+[Brightech International · Somerset, NJ · Oct 2018 – May 2021]{.role-meta}
+
+- Created SDTM and ADaM datasets and TFLs (RTF, PDF) per specifications and mock shells
+- Authored SDTM/ADaM specifications and annotated CRFs following CDISC guidelines
+- Prepared define.xml and SDRG/ADRG with Pinnacle 21 Enterprise for submissions
+- Performed QC of datasets and displays; supported 3+ concurrent studies and mentored junior programmers
+:::
